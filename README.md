@@ -77,18 +77,10 @@ Based on the intelligence surfaced by the dashboard, executive leadership should
 | **Financial Leakage** | Matrix Table | Regional mapping cross-referencing fuel surcharges alongside penalizing demurrage costs. |
 | **Executive Insights** | Narrative Callouts | Dynamically generated smart narrative summaries highlighting anomalous supply chain occurrences. |
 
-##  Key Features
-- Dynamic KPI variance tracking
-- Delay rate benchmarking
-- Financial leakage monitoring
-- Carrier performance ranking
-- Predictive shipment timeline analysis
-- Executive smart narrative reporting
-- Interactive drill-through filtering
 
 ###  Interactive Filters & Slicers
 * **Carrier Slicer:** Filters the entire report canvas to isolate specific maritime shipping networks.
-* **Year Timeline Slider:** Allows smooth, continuous toggling to cross-compare performance changes between **2023** and **2026**.
+* **Year Timeline Slider:** Allows smooth, continuous toggling to cross-compare interactive monthly timeline analysis for 2023 operational trends.
 * **Route Code Filter:** Deep-dives directly into localized lanes (e.g., *Route 101, Route 195*) to isolate hyper-local transit exceptions.
 
 ---

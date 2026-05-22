@@ -10,11 +10,11 @@ This project delivers an enterprise-grade Business Intelligence solution designe
 
 *Figure 1.0: Live interface featuring a high-contrast premium dark aesthetic, optimized for strategic operational monitoring and rapid decision-making.*
 
-## 📊 Data Modeling Architecture
+##  Data Modeling Architecture
 
 ![Star Schema](star-schema.png)
 
-## 🧠 Dashboard Wireframe
+##  Dashboard Wireframe
 
 ![Wireframe](wireframe.png)
 
@@ -27,7 +27,7 @@ Rather than simply displaying historical volume, the system actively maps operat
 
 ---
 
-## 💼 Business Problem
+##  Business Problem
 
 Modern logistics networks suffer from massive operational blind spots, resulting in severe bottom-line vulnerabilities:
 * **Unmonitored Financial Leakage:** Hidden supply chain costs, specifically ballooning regional demurrage fees and unvetted fuel surcharges, consistently cause budget overruns without clear accountability.
@@ -36,18 +36,18 @@ Modern logistics networks suffer from massive operational blind spots, resulting
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 Analysis of the operational intelligence data reveals several critical areas requiring immediate administrative oversight:
-* 🌍 **South Region Risk Concentration:** The Southern regional sector is responsible for **40% of all financial leakage** across the network, marking it as the primary operational vulnerability.
-* 📦 **Carrier Volume Concentration:** *Maersk Line* firmly commands the highest container volume, making overall operational stability highly dependent on this single partnership.
-* ✅ **Baseline Delay Stability:** The system-wide delay rate is holding stable exactly at the target of **25%**, showing zero unexpected baseline deviations.
-* 💰 **Cost Mitigation Success:** Fuel surcharges are running **26.76% below target**, indicating robust structural cost savings and high efficiency in fuel-hedging strategies.
-* 📅 **Peak Efficiency Timelines:** Historical records pinpoint **April** as the month achieving the absolute highest delivery efficiency across all active shipping lines.
+*  **South Region Risk Concentration:** The Southern regional sector is responsible for **40% of all financial leakage** across the network, marking it as the primary operational vulnerability.
+*  **Carrier Volume Concentration:** *Maersk Line* firmly commands the highest container volume, making overall operational stability highly dependent on this single partnership.
+*  **Baseline Delay Stability:** The system-wide delay rate is holding stable exactly at the target of **25%**, showing zero unexpected baseline deviations.
+*  **Cost Mitigation Success:** Fuel surcharges are running **26.76% below target**, indicating robust structural cost savings and high efficiency in fuel-hedging strategies.
+*  **Peak Efficiency Timelines:** Historical records pinpoint **April** as the month achieving the absolute highest delivery efficiency across all active shipping lines.
 
 ---
 
-## 🎯 Strategic Recommendations
+##  Strategic Recommendations
 
 Based on the intelligence surfaced by the dashboard, executive leadership should execute the following data-backed measures:
 1. **Targeted Southern Audit:** Launch an immediate process-efficiency audit into the Southern Region's port operations to identify and mitigate the systemic root causes behind that 40% financial leakage.
@@ -56,8 +56,8 @@ Based on the intelligence surfaced by the dashboard, executive leadership should
 
 ---
 
-## 🛠️ Tech Stack
-
+## Tech Stack
+* **SQL:** Core Data cleaning using **Replace**, **Cast** and **Lower&Upper** to Standardized every column for data quality.
 * **Power BI Desktop:** Core platform used to engineer the interface layout, UX flow, and executive reporting canvas.
 * **DAX (Data Analysis Expressions):** Engineered to write scalable measures computing time intelligence, running targets, dynamic variances, and KPI tracking alerts.
 * **Power Query (M):** Utilized to execute structural data engineering, dataset merging, entity cleaning, and dimensional transformation.
@@ -65,7 +65,7 @@ Based on the intelligence surfaced by the dashboard, executive leadership should
 
 ---
 
-## 🧩 Dashboard Architecture
+##  Dashboard Architecture
 
 ### Visual Components Breakdown
 | Section | Visual Type | Measured Metrics & Core Focus |
@@ -86,20 +86,20 @@ Based on the intelligence surfaced by the dashboard, executive leadership should
 - Executive smart narrative reporting
 - Interactive drill-through filtering
 
-### 🔍 Interactive Filters & Slicers
+###  Interactive Filters & Slicers
 * **Carrier Slicer:** Filters the entire report canvas to isolate specific maritime shipping networks.
 * **Year Timeline Slider:** Allows smooth, continuous toggling to cross-compare performance changes between **2023** and **2026**.
 * **Route Code Filter:** Deep-dives directly into localized lanes (e.g., *Route 101, Route 195*) to isolate hyper-local transit exceptions.
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 By combining advanced data modeling with user-centric design, this dashboard shifts logistics management from a state of firefight to a state of control. It transforms raw, disconnected shipping logs into operational truth. For the business, this means fewer delayed containers, total visibility over vendor capabilities, and an immediate reduction in unvetted regional financial losses.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Omobolaji Kehinde Zachariah**  
 *Data Analyst & Business Intelligence Specialist*  

@@ -1,5 +1,4 @@
 # Logistics-Performance-Risk-Intelligence-Dashboard
-
 In global supply chain management, operational visibility is the difference between profitability and compounding losses. Unexpected transit delays, carrier inefficiencies, and unmonitored financial penalties often go unnoticed when buried in traditional spreadsheets. 
 This project delivers an enterprise-grade Business Intelligence solution designed to centralize fractured logistics data into a cohesive, high-contrast executive workspace. By shifting focus from retroactive reporting to predictive risk intelligence, this dashboard equips supply chain leaders with the granular visibility required to protect margins, hold vendors accountable, and streamline global transit pipelines.
 

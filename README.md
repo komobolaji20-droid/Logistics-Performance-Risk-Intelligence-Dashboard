@@ -65,6 +65,17 @@ Based on the intelligence surfaced by the dashboard, executive leadership should
 
 ---
 
+##  End-to-End Workflow
+
+1. Collected and reviewed raw logistics shipment data.
+2. Cleaned and transformed datasets using SQL.
+3. Designed a dimensional star schema for scalable reporting.
+4. Engineered KPI measures and variance logic using DAX.
+5. Built an executive-focused dashboard interface in Power BI.
+6. Validated filter interactions, slicers, and visual responsiveness.
+7. Generated operational insights and business recommendations from the analysis.
+---
+
 ##  Dashboard Architecture
 
 ### Visual Components Breakdown
@@ -76,7 +87,14 @@ Based on the intelligence surfaced by the dashboard, executive leadership should
 | **Shipment Status** | Proportional Donut Chart | Lifecycle segmentation showing distribution across *In Transit, Arrived, Delivered,* and *Delayed*. |
 | **Financial Leakage** | Matrix Table | Regional mapping cross-referencing fuel surcharges alongside penalizing demurrage costs. |
 | **Executive Insights** | Narrative Callouts | Dynamically generated smart narrative summaries highlighting anomalous supply chain occurrences. |
+---
 
+##  Repository Structure
+├── README.md
+├── dashboard-preview.jpg
+├── star-schema.png
+├── wireframe.png
+├── logistics-dashboard.pbix
 
 ###  Interactive Filters & Slicers
 * **Carrier Slicer:** Filters the entire report canvas to isolate specific maritime shipping networks.
